@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "East India Cycling "
-baseURL = "https://www.eastindiacycling.com/"
+baseURL = "eastindiacycling.com"
 theme = "massively"
 googleanalytics = ""
 disqusShortname = ""
