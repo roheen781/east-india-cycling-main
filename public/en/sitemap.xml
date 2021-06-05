@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/cycling-in-northeast-india/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/cycling-in-assam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/cycling-in-meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/cycling-in-eastern-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/cycling-in-western-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/cycling-mishmi-hills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/multi-activity-holiday-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/multi-activity-holiday-assam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/multi-activity-holiday-meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/cycling-in-sikkim/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/trans-meghalaya-cycling-tour/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.eastindiacycling.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.eastindiacycling.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.eastindiacycling.com/"
+                />
+  </url>
+  
+</urlset>

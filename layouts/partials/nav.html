@@ -1,0 +1,31 @@
+<!-- Nav -->
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<nav id="nav">
+    <ul class="links">
+        <li class="active"><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>
+        
+        {{ with $data.contactinfo }}
+        <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
+        <li><a href='{{ "https://www.nnejourneys.com/" | relLangURL }}'>{{ i18n "NAV_MOTHERSHIP" . }}</a></li>
+        
+        {{ end }}
+        {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+        
+        {{ end }}
+        {{ end }}
+    </ul>
+    {{ with $data.social }}
+    <ul class="icons">
+        {{ with .facebook }}
+        <li><a href="{{ . }}" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+        {{ end }}
+        {{ with .instagram }}
+        <li><a href="{{ . }}" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+        {{ end }}
+        {{ with .youtube }}
+        <li><a href="{{ . }}" class="icon fa-youtube"><span class="label">Youtube</span></a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</nav>
