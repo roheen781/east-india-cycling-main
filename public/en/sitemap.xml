@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.eastindiacycling.com/cycling-in-northeast-india/</loc>
+    <loc>/cycling-in-northeast-india/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/cycling-in-assam/</loc>
+    <loc>/cycling-in-assam/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/cycling-in-meghalaya/</loc>
+    <loc>/cycling-in-meghalaya/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/cycling-in-eastern-arunachal-pradesh/</loc>
+    <loc>/cycling-in-eastern-arunachal-pradesh/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/cycling-in-western-arunachal-pradesh/</loc>
+    <loc>/cycling-in-western-arunachal-pradesh/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/cycling-mishmi-hills/</loc>
+    <loc>/cycling-mishmi-hills/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/multi-activity-holiday-arunachal-pradesh/</loc>
+    <loc>/multi-activity-holiday-arunachal-pradesh/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/multi-activity-holiday-assam/</loc>
+    <loc>/multi-activity-holiday-assam/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/multi-activity-holiday-meghalaya/</loc>
+    <loc>/multi-activity-holiday-meghalaya/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/cycling-in-sikkim/</loc>
+    <loc>/cycling-in-sikkim/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/trans-meghalaya-cycling-tour/</loc>
+    <loc>/trans-meghalaya-cycling-tour/</loc>
   </url>
   
   <url>
-    <loc>https://www.eastindiacycling.com/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.eastindiacycling.com/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.eastindiacycling.com/"
+                href="/"
                 />
   </url>
   

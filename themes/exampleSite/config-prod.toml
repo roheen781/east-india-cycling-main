@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "East India Cycling"
-baseURL = "https://hugo-theme-massively.netlify.com/"
+baseURL = "/"
 theme = "massively"
 googleanalytics = ""
 disqusShortname = ""
