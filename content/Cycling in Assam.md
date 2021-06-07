@@ -90,7 +90,7 @@ We have a very experienced team which is also local. This reflects in the overal
  
 ###### *> Please write in to us for more information*
 ---
-## Other Tours
+### Other Tours
 
 | Meghalaya     | Arunachal Pradesh |Sikkim & Bengal |Multi-Activity |
 | ----------- | ----------- |----------- |----------- |
