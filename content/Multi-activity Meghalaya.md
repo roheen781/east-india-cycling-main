@@ -1,7 +1,7 @@
 +++
 title = 'Hike, Bike, Culture holiday in Meghalaya'
 slug = 'Multi-activity-holiday-Meghalaya'
-image = 'images/Meghalaya Multi-activity.jpg'
+image = 'images/Meghalaya Multi-activity-tour.jpg'
 description = 'Tea, Wildlife, Culture & Cuisine'
 disableComments = true
 weight = 9

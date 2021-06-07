@@ -1,7 +1,7 @@
 +++
 title = 'Adventure, Culture, Wildlife tour of Assam'
 slug = 'Multi-activity-holiday-Assam'
-image = 'images/Assam Multi-activity.jpg'
+image = 'images/Assam Multi-activity-tour.jpg'
 description = 'Tea, Wildlife, Culture & Cuisine'
 disableComments = true
 weight = 9
