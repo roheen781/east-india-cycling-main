@@ -62,7 +62,7 @@ This is a fairly awesome cycle tour in Arunachal Pradesh, the eastern most state
 ###### *> Please write in to us for more information*
 --- 
 
-## Other Tours
+### Other Tours
 
 | Assam     | Meghalaya | Arunachal Pradesh    | Sikkim & W Bengal    |
 | -----------     |    -----------   |          ----------- |-----------|
