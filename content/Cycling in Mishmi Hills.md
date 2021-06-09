@@ -6,7 +6,11 @@ description = 'Himalayas end'
 disableComments = true
 weight = 6
 +++
-This particular cycle tour of Arunachal Pradesh takes us from the Namdapha National Park to the Acheso Valley which is where the road ends (If there were a road we would end up in China). In between the start and the end, one will traverse across varied landscape, terrain, road conditions and meet the all important tribes of this region. From the tropical forests of Namdapha and Kamlang to the cane and grasslands of the Acheso valley, everyday is a revelation.
+### Cycling in Eastern Arunachal Pradesh: Himalaya’s eastern flank
+
+The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas, this is where the mighty Himalayan chain ends (or starts). Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of undending swathes of prestine nature. This is home to the animist Mishmi tribes, some of the smallest linguistic groups of the subcontinent. For most parts we will come in contact with the Idu Mishmi who worship several benevolent and malevolent spirits. Nani-Intaya and Masello Zino are worshipped as creators of mankind and universe as a whole. Mythological characters like SINE-RU a first IGU (Idu Priest) still holds high place and reverence in the minds of the people. The prints of his palm on the huge rocks at Athu Popu near Keyala Pass on the Chinese border, is considered as their shrine.
+
+This cycle tour you will take you riding across diverse conditions on little used backroads, starting from the rainforest of Namdapha and Kamlang to the bamboo forests of Acheso Valley. Enroute you will meet the Therevada tribes that inhabit the plains and the animist tribes that live in the hills, while all along you will be treated to unsurpassed vistas of the high Himalayas and the mighty Brahmaputra Valley.
 
 ### overview
 

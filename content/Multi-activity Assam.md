@@ -6,7 +6,11 @@ description = 'Tea, Wildlife, Culture & Cuisine'
 disableComments = true
 weight = 9
 +++
-This particular cycle tour of Arunachal Pradesh takes us from the Namdapha National Park to the Acheso Valley which is where the road ends (If there were a road we would end up in China). In between the start and the end, one will traverse across varied landscape, terrain, road conditions and meet the all important tribes of this region. From the tropical forests of Namdapha and Kamlang to the cane and grasslands of the Acheso valley, everyday is a revelation.
+### Multi-Activity Holiday in Assam: Adventure, Culture and wildlife in the Brahmaputra valley
+
+This multi-activity tour takes us to the Brahmaputra valley of Assam. A lush strip of land sandwiched between the Himalayan landmass on the north and the lesser hills of Nagaland and Meghalaya in the south. The Brahmaputra valley is home to a multitude of ethinicities, a string of wildlife sanctuaries and the famous Assam tea among others.
+
+On this tour we will indulge in short day ride, walking forays, elephant & jeep safari's, tea plantation & factory visits, explore the culture and cuisine of this land,spot the endangered River Dolphins of the Brahmaputra, cycle around the largest river island of the world while staying in live in Tea bungalows, Safari lodges and Eco camps.
 
 ### overview
 

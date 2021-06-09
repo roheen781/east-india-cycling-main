@@ -2,11 +2,17 @@
 title = 'Hike, Bike, Culture holiday in Meghalaya'
 slug = 'Multi-activity-holiday-Meghalaya'
 image = 'images/Meghalaya Multi-activity-tour.jpg'
-description = 'Tea, Wildlife, Culture & Cuisine'
+description = 'Multi-Activity Tour of Meghalaya'
 disableComments = true
 weight = 9
 +++
-This particular cycle tour of Arunachal Pradesh takes us from the Namdapha National Park to the Acheso Valley which is where the road ends (If there were a road we would end up in China). In between the start and the end, one will traverse across varied landscape, terrain, road conditions and meet the all important tribes of this region. From the tropical forests of Namdapha and Kamlang to the cane and grasslands of the Acheso valley, everyday is a revelation.
+### HIKE, BIKE, CULTURE TOUR IN MEGHALAYA
+
+This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus.
+
+The cycling phase takes you across the beautiful landscape, whereas the hiking days take you through some of the best trails of the region, amongst which the famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools while visitng waterfalls, caves and local archery competitions. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and personal prospective of this land and its wonderful people.
+
+The tour is quite flexible, we can mould the entire proceeding looking at your preferences and abilities.
 
 ### overview
 

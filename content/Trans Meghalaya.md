@@ -6,7 +6,11 @@ description = 'Garo, Khasi & the Jaintia Hills'
 disableComments = true
 weight = 11
 +++
-This particular cycle tour of Arunachal Pradesh takes us from the Namdapha National Park to the Acheso Valley which is where the road ends (If there were a road we would end up in China). In between the start and the end, one will traverse across varied landscape, terrain, road conditions and meet the all important tribes of this region. From the tropical forests of Namdapha and Kamlang to the cane and grasslands of the Acheso valley, everyday is a revelation.
+### Cycle Tour of Meghalaya: Cycling the Garo, Khasi and Jaintia hills
+
+The Trans Meghalaya cycling tour takes you across the three hill ranges of the state. Starting from the west in the Garo Hills, we ride eastewards across the Khasi and Jaintia hills, in essence taking in the best that the state has to offer. The state of Meghalaya is the first line of hills that the Monsoon clouds touch upon crossing peninsular India, hence it receives some of the highest rainfall anywhere on earth. The state has three distinct major tribes after whom the hills are known for.
+
+Over the duration of this tour you will be cycling across the best that Meghalaya has to offer, coverning some of the deepest caves and highest waterfalls of Asia, meeting distinct cultures and sampling their cuisine. Visiting pristine wildlife sanctuaries, the living root bridges and most of all be mesmirized by wonderful panoramas that this state is so famous for.
 
 ### overview
 

@@ -6,7 +6,13 @@ description = 'The Brahmaputra Explorer'
 disableComments = true
 weight = 2
 +++
-Sprawled along the length of the Brahmaputra valley, Assam is the biggest and most accessible of the Northeast States. A hospitable population, a cuisine with its own distinctive aromas and flavours, a vibrant artistic heritage marked by exotic dance forms, and a string of Wildlife Sanctuaries top its list of innumerable attractions. The archetypal Assamese landscape is a picturesque golden-green vista of rice fields and manicured tea estates, framed by the blue mountains of Arunachal Pradesh in the north and the highlands of Meghalaya and Nagaland to the south.
+### Cycle tour of Assam: Cycling the physical heart of Northeastern India
+
+This cycle tour takes you along the length of the Brahmaputra River, across Assam. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
+
+Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here.
+
+*The Tour is flexible and will be designed around the duration you have in hand.*
 
 ### overview
 

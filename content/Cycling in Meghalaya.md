@@ -6,9 +6,11 @@ description = 'Khasi & Jaintia Hills'
 disableComments = true
 weight = 3
 +++
+### Cycle tour of Meghalaya: The Khasi and Jaintia hills.
+On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. All the while riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and visiting quaint villages. We also include a day hike so as not to miss out the wonders that are the living root bridges.
 Separating the Brahmaputra valley from the plains of Bangladesh, hilly Meghalaya – the ‘abode of clouds’ – is a cool, pine-fresh mountain state set on dramatic horseshoes of rocky cliffs. Cherrapunjee and Mawsynram are statistically among the wettest places on Earth; most of the rain falls between June and September known as the Monsoons, creating very impressive waterfalls and carving out some of Asia’s longest caves. Meghalaya is also home to the only matri-lineal society of the eastern region.
 
-On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. All the while riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and visiting quaint villages. We also include a day hike so as not to miss out the wonders that are the living root bridges.
+
 
 ### overview
 - **Level:** Moderate to Tough

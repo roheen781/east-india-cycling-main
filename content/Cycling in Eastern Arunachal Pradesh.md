@@ -6,7 +6,11 @@ description = 'Watershed of the Brahmaputra'
 disableComments = true
 weight = 4
 +++
-This is a fairly awesome cycle tour in Arunachal Pradesh, the eastern most state of India. Exciting experiences right from crossing one of the largest rivers in India at Dibrugarh to cycling through the riverine areas of the Siang and the Dibang Rivers of eastern Arunachal Pradesh . This  bicycle tour offers bounties of wide vistas, little known villages, myriads of ethnic groups and some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run guest houses, homestays and camps .
+### Cycle tour of Eastern Arunachal Pradesh: Birth of the Brahmaputra Valley
+
+This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
+
+Exciting experiences right from crossing one of the largest rivers of India in Assam to cycling through the riverine areas of the Siang, Dibang and the Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain . Covering territories of over 10 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to Old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups and visiting some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run guest houses, homestays and camping in beautiful secluded locations .
 
 ### overview
 
@@ -48,6 +52,8 @@ This is a fairly awesome cycle tour in Arunachal Pradesh, the eastern most state
  - Activities as mentioned in the itinerary
  - All permits
 
+---
+
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
@@ -58,6 +64,23 @@ This is a fairly awesome cycle tour in Arunachal Pradesh, the eastern most state
 - Front Tyre 6 26×2.1 / 30TPI
 - Rear Tyre 6 26×2.1 / 30TPI
 - Weight 13.6 kg / 29.98 lbs
+
+#### Terrain & Road Condition
+
+The terrain is generally fairly flat. Except for a few odd days the roads are generally excellent. This is probably one of the easiest routes to cycle in the Northeastern region, with beautiful views, interesting tribes and excellent road conditions.
+
+#### Backup
+Sturdy SUV’s and sturdier drivers will accompany you on every trip. The condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+
+#### Permits
+Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
+
+#### Weather Pattern
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 10 C.
+
+#### Safety 
+We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
 
 ###### *> Please write in to us for more information*
 --- 

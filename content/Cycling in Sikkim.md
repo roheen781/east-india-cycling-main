@@ -6,6 +6,8 @@ description = 'The Monastic Trail'
 disableComments = true
 weight = 10
 +++
+### Cycle Tour of Sikkim & W Bengal: Of Mountains and Monastries
+
 This tour of Sikkim takes us through East, South and Western districts of this beautiful himalayan state. We will generally be in sub alpine rural himalayas, this provides us an excellent opportunity to observe life in these parts, interact with the locals and throughout be accompanied by amazing panoramas of the high himalayas. This tour takes you through most of the important locations of this state.
 
 ### overview

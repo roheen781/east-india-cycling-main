@@ -6,7 +6,11 @@ description = 'Multi-activity holiday in Arunachal Pradesh'
 disableComments = true
 weight = 8
 +++
-This particular cycle tour of Arunachal Pradesh takes us from the Namdapha National Park to the Acheso Valley which is where the road ends (If there were a road we would end up in China). In between the start and the end, one will traverse across varied landscape, terrain, road conditions and meet the all important tribes of this region. From the tropical forests of Namdapha and Kamlang to the cane and grasslands of the Acheso valley, everyday is a revelation.
+### Hike, Bike, Raft and Culture tour of Arunachal Pradesh: Eastern Arunachal unravelled
+
+This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills the eastern flank to the Himalayan chain, is the land of the Animist and Theravada Buddhist tribes.
+
+Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into two different and unique wildlife sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers, the easternmost tributaries of the Brahmaputra.
 
 
 
