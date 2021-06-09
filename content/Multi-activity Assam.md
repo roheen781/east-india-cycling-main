@@ -14,13 +14,13 @@ On this tour we will indulge in short day ride, walking forays, elephant & jeep 
 
 ### overview
 
-- Level: Easy
-- Total Days: 6 to 12
-- Terrain: 100% Plain 
-- Altitude variation: 50 to 200 mts
-- Best Time: October to March
-- Airport in: Guwahati (Assam)
-- Airport out: Guwahati (Assam)
+- **Level:** Easy
+- **Total Days:** 6 to 12
+- **Terrain:** 100% Plain 
+- **Altitude variation:** 50 to 200 mts
+- **Best Time:** October to March
+- **Airport in:** Guwahati (Assam)
+- **Airport out:** Guwahati (Assam)
 
 ### HIGHLIGHTS
 

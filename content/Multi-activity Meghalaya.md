@@ -16,15 +16,15 @@ The tour is quite flexible, we can mould the entire proceeding looking at your p
 
 ### overview
 
-- Level: Moderate 
-- Total Days: 5 to 10
-- Max. Cycling distance: Upto 250 Km
-- Hikes: Multiple day Walks
-- Terrain: 100% Hilly / Mountanious
-- Altitude variation: 150 to 1900 mts
-- Best Time: October to March
-- Airport in: Guwahati (Assam)
-- Airport out: Guwahati (Assam)
+- **Level:** Moderate 
+- **Total Days:** 5 to 10
+- **Max. Cycling distance:** Upto 250 Km
+- **Hikes:** Multiple day Walks
+- **Terrain:** 100% Hilly / Mountanious
+- **Altitude variation:** 150 to 1900 mts
+- **Best Time:** October to March
+- **Airport in:** Guwahati (Assam)
+- **Airport out:** Guwahati (Assam)
 
 ### HIGHLIGHTS
 
