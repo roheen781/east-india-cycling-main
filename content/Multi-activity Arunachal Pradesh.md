@@ -17,25 +17,25 @@ Authentic interactions, local cuisine, history and lifestyle of the tribes etc a
 
 ### overview
 
-- **Level:** Tough
-- **Total Days:** 10 to 15
-- **Max. Cycling distance:** Upto 650 Km
-- **Avg. Cycling Distance:** 60 Km
-- **Terrain:** 70% Hilly / Mountanious
-- **Altitude variation:** 50 to 2655 mts
-- **Best Time:** October to March
-- **Airport In:** Dibrugarh (Assam)
-- **Airport Out:** Dibrugarh (Assam)
+- Level: Moderate
+- Total Days: 6 to 12
+- Max. Cycling days: Upto 6 days
+- Max. Hiking days: Upto 5
+- Max. Rafting days: Upto 3
+- Terrain: 50% Hilly 
+- Altitude variation: 50 to 1200 mts
+- Best Time: October to March
+- Airport in: Dibrugarh (Assam)
+- Airport out: Dibrugarh (Assam)
 
 ### HIGHLIGHTS
 
-- Explore the Mishmi hills (Easternmost bit of the Himalayas)
-- Lohit and Debang River Valleys
-- Least populated district of India on sparsley plied upon roads
-- View the birth of the Brahmaputra Valley
-- A myriad of ethinic cuisines
-- Meet the Singpho, Khamti,Chakma, Miju Mishmi, Adi and Idu Mishmi Tribe tribes
-- Cycle through two lush wildlife sanctuaries
+- Around the watershed of the Mighty Brahmaputra
+- Cycle across territories 6 different tribes
+- Hike through dense tropical forests at the eastern edge of India
+- Raft the rapids of some the wildest himalayn rivers
+- Indulge in a plethora of cuisine
+- Explore the Namdapha Wildlife Sanctuary
 
 ### ACCOMMODATION
 

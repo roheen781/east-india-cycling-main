@@ -14,29 +14,25 @@ On this tour we will indulge in short day ride, walking forays, elephant & jeep 
 
 ### overview
 
-- **Level:** Tough
-- **Total Days:** 10 to 15
-- **Max. Cycling distance:** Upto 650 Km
-- **Avg. Cycling Distance:** 60 Km
-- **Terrain:** 70% Hilly / Mountanious
-- **Altitude variation:** 50 to 2655 mts
-- **Best Time:** October to March
-- **Airport In:** Dibrugarh (Assam)
-- **Airport Out:** Dibrugarh (Assam)
+- Level: Easy
+- Total Days: 6 to 12
+- Terrain: 100% Plain 
+- Altitude variation: 50 to 200 mts
+- Best Time: October to March
+- Airport in: Guwahati (Assam)
+- Airport out: Guwahati (Assam)
 
 ### HIGHLIGHTS
 
-- Explore the Mishmi hills (Easternmost bit of the Himalayas)
-- Lohit and Debang River Valleys
-- Least populated district of India on sparsley plied upon roads
-- View the birth of the Brahmaputra Valley
-- A myriad of ethinic cuisines
-- Meet the Singpho, Khamti,Chakma, Miju Mishmi, Adi and Idu Mishmi Tribe tribes
-- Cycle through two lush wildlife sanctuaries
+- Day cycling, short hikes, elephant, boat & jeep safari's
+- Tea Plantations, Wildlife Sanctuaries, River Islands and more
+- Spot the elusive Gangetic River Dolphins of the Brahmaputra
+- Indulge in a plethora of cuisines
+- Insight into the history of the region from the local prospective
 
 ### ACCOMMODATION
 
-- **Accommodation:** Eco Lodges & Camping
+- **Accommodation:** Tea Bungalows, Eco Lodges & Safari Lodges
 - **Meals:** As much as possibly we try cover all the local cuisines
 - **Refreshments & Water:** High energy snacks and Water during activities
 
