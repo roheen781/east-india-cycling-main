@@ -6,7 +6,7 @@ description = 'Multi-Activity Tour of Meghalaya'
 disableComments = true
 weight = 9
 +++
-### HIKE, BIKE, CULTURE TOUR IN MEGHALAYA
+### MULTI-ACTIVITY HOLIDAY IN MEGHALAYA: [*HIKE, BIKE, CULTURE IN THE 'ABODE OF CLOUDS'*](https://www.nnejourneys.com/multiactivity/multi-activity-holiday-in-meghalaya/)
 
 This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus.
 

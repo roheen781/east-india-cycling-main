@@ -6,7 +6,7 @@ description = 'Watershed of the Brahmaputra'
 disableComments = true
 weight = 4
 +++
-### Cycle tour of Eastern Arunachal Pradesh: Birth of the Brahmaputra Valley
+### Cycle tour of Eastern Arunachal Pradesh: [*Birth of the Brahmaputra Valley*](https://www.nnejourneys.com/cycling/eastern-arunachal-pradesh-cycle-tour/)
 
 This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
 

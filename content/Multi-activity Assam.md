@@ -6,7 +6,7 @@ description = 'Tea, Wildlife, Culture & Cuisine'
 disableComments = true
 weight = 9
 +++
-### Multi-Activity Holiday in Assam: Adventure, Culture and wildlife in the Brahmaputra valley
+### Multi-Activity Holiday in Assam: [*Adventure, Culture and wildlife in the Brahmaputra valley*](https://www.nnejourneys.com/multiactivity/multiactivity-holiday-assam/)
 
 This multi-activity tour takes us to the Brahmaputra valley of Assam. A lush strip of land sandwiched between the Himalayan landmass on the north and the lesser hills of Nagaland and Meghalaya in the south. The Brahmaputra valley is home to a multitude of ethinicities, a string of wildlife sanctuaries and the famous Assam tea among others.
 

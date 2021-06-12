@@ -6,7 +6,7 @@ description = 'Multi-activity holiday in Arunachal Pradesh'
 disableComments = true
 weight = 8
 +++
-### Hike, Bike, Raft and Culture tour of Arunachal Pradesh: Eastern Arunachal unravelled
+### Hike, Bike, Raft and Culture tour of Arunachal Pradesh: [*Eastern Arunachal unravelled*](https://www.nnejourneys.com/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/)
 
 This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills the eastern flank to the Himalayan chain, is the land of the Animist and Theravada Buddhist tribes.
 

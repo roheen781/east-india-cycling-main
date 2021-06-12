@@ -6,7 +6,7 @@ description = 'The Brahmaputra Explorer'
 disableComments = true
 weight = 2
 +++
-### Cycle tour of Assam: [Cycling the physical heart of Northeastern India ](https://www.nnejourneys.com/cycling/cycle-tour-of-assam/)
+### Cycle tour of Assam: [*Cycling the physical heart of Northeastern India*](https://www.nnejourneys.com/cycling/cycle-tour-of-assam/)
 
 This cycle tour takes you along the length of the Brahmaputra River, across Assam. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
 
