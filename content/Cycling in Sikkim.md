@@ -88,4 +88,4 @@ We have a very experienced team which is also local. This reflects in the overal
 | [Brahmaputra Explorer](/cycling-in-assam/)   | [Khasi & Jaintia Hills](/cycling-in-meghalaya/)     | [Eastern Arunachal Pradesh](/cycling-in-eastern-arunachal-pradesh/)  |
 | [Assam Multi-Activity](/multi-activity-holiday-assam/)   | [Trans-Meghalaya](/trans-meghalaya-cycling-tour/)      | [Mishmi Hills Explorer](/cycling-mishmi-hills/)      |
 |   | [Meghalaya Multi-Activity](/multi-activity-holiday-meghalaya/)       | [Western Arunachal Pradesh](/cycling-in-western-arunachal-pradesh/)      |   |
-|    |        | [Arunachal Pradesh Multi-Activity](/multi-activity-holiday-arunachal-pradesh/)     | 
+|    |  [Arunachal Pradesh Multi-Activity](/multi-activity-holiday-arunachal-pradesh/)     | 
