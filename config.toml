@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "East India Cycling "
 baseURL = "/"
 theme = "massively"
-googleanalytics = "G-SWRPBSJ36Q"
+googleanalytics = "UA-180443036-2"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
