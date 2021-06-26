@@ -1,5 +1,5 @@
 +++
-title = 'Cycling in Assama '
+title = 'Cycling in Assam '
 slug = 'Cycling in Assam'
 image = 'images/Cycling-in-Assam.jpg'
 description = 'The Brahmaputra Explorer'
