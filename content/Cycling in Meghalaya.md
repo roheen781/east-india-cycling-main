@@ -2,7 +2,7 @@
 title = 'Cycling in Meghalaya'
 slug = 'Cycling in Meghalaya'
 image = 'images/Cycling-in-Meghalaya.jpg'
-description = 'Khasi & Jaintia Hills'
+description = 'Cycling Tour of Meghalaya: Khasi & Jaintia Hills'
 disableComments = true
 weight = 3
 +++

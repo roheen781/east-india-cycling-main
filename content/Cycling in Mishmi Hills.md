@@ -1,8 +1,8 @@
 +++
-title = 'Cycling in The Mishmi Hills of Arunachal Pradesh'
+title = 'Cycling The Mishmi Hills of Arunachal Pradesh'
 slug = 'Cycling Mishmi Hills'
 image = 'images/Cycling-in-Arunachal Pradesh-mishmi-hills.jpg'
-description = 'Himalayas end'
+description = 'Cycling Tour of The Mishmi Hills: Himalayas end'
 disableComments = true
 weight = 6
 +++

@@ -2,7 +2,7 @@
 title = 'Trans-Meghalaya Cycling Tour'
 slug = 'Trans Meghalaya cycling tour'
 image = 'images/Trans Meghalaya.jpg'
-description = 'Garo, Khasi & the Jaintia Hills'
+description = 'Cycling Tour of Meghalaya: Garo, Khasi & the Jaintia Hills'
 disableComments = true
 weight = 11
 +++

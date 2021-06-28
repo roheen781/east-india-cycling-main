@@ -2,7 +2,7 @@
 title = 'Cycling in Assam '
 slug = 'Cycling in Assam'
 image = 'images/Cycling-in-Assam.jpg'
-description = 'The Brahmaputra Explorer'
+description = 'Cycling Tour of Assam: The Brahmaputra Valley'
 disableComments = true
 weight = 2
 +++

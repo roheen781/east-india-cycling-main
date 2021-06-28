@@ -2,7 +2,7 @@
 title = 'Cycling in Eastern Arunachal Pradesh'
 slug = 'Cycling in Eastern Arunachal Pradesh'
 image = 'images/Cycling-in-Eastern-Arunachal.jpg'
-description = 'Watershed of the Brahmaputra'
+description = 'Cycling Tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra'
 disableComments = true
 weight = 4
 +++

@@ -2,7 +2,7 @@
 title = 'Cycling in Western Arunachal Pradesh'
 slug = 'Cycling in Western Arunachal Pradesh'
 image = 'images/Cycling-in-Western-Arunachal.jpg'
-description = 'Himalayan High'
+description = 'Cycling Tour of Western Arunachal Pradesh: Himalayan High'
 disableComments = true
 weight = 5
 +++
