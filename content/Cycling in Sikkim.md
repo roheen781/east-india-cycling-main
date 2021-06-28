@@ -78,7 +78,8 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 
 #### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
-###### *> Please write in to us for more information*
+
+###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
 ---
 
 ### Other Tours
@@ -89,3 +90,5 @@ We have a very experienced team which is also local. This reflects in the overal
 | [Assam Multi-Activity](/multi-activity-holiday-assam/)   | [Trans-Meghalaya](/trans-meghalaya-cycling-tour/)      | [Mishmi Hills Explorer](/cycling-mishmi-hills/)      |
 |   | [Meghalaya Multi-Activity](/multi-activity-holiday-meghalaya/)       | [Western Arunachal Pradesh](/cycling-in-western-arunachal-pradesh/)      |   |
 |    |  [Arunachal Pradesh Multi-Activity](/multi-activity-holiday-arunachal-pradesh/)     | 
+
+###### *> Please write in to us for more information*

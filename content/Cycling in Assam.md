@@ -94,7 +94,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
  
  
-###### *> Please write in to us for more information*
+###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
 ---
 ### Other Tours
 
@@ -105,7 +105,7 @@ We have a very experienced team which is also local. This reflects in the overal
 |  | [Mishmi Hills](/cycling-mishmi-hills/)      |       | [Assam Multi-Activity](/multi-activity-holiday-assam/)        | 
 
 
-    
+###### *> Please write in to us for more information*
 
 
 
