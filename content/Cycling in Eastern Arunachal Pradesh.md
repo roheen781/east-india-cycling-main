@@ -2,11 +2,11 @@
 title = 'Cycling in Eastern Arunachal Pradesh'
 slug = 'Cycling in Eastern Arunachal Pradesh'
 image = 'images/Cycling-in-Eastern-Arunachal.jpg'
-description = 'Cycling Tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra'
+description = 'Cycling holiday in Eastern Arunachal Pradesh: Watershed of the Brahmaputra | 6 to 12 days'
 disableComments = true
 weight = 4
 +++
-### Cycle tour of Eastern Arunachal Pradesh: [*Birth of the Brahmaputra Valley*](https://www.nnejourneys.com/cycling/eastern-arunachal-pradesh-cycle-tour/)
+### Cycle tour of Eastern Arunachal Pradesh: [*Explore the mouth of the Brahmaputra Valley*](https://www.nnejourneys.com/cycling/eastern-arunachal-pradesh-cycle-tour/)
 
 This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
 
@@ -14,11 +14,11 @@ Exciting experiences right from crossing one of the largest rivers of India in A
 
 ### overview
 
-- **Level:** Moderate
-- **Total Days:** 4 – 12
+- **Level:** Easy to Moderate
+- **Total Days:** 6 – 12
 - **Max. Cycling distance:** Upto 500 Km
 - **Avg. Cycling Distance:** 60 Km
-- **Terrain:** 90 % plain
+- **Terrain:** 70 % plain
 - **Altitude variation:** 50 to 1100 mts
 - **Best Time:** October to March
 - **Airport In:** Dibrugarh (Assam)

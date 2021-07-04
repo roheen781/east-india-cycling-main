@@ -2,20 +2,23 @@
 title = 'Cycling in Meghalaya'
 slug = 'Cycling in Meghalaya'
 image = 'images/Cycling-in-Meghalaya.jpg'
-description = 'Cycling Tour of Meghalaya: Khasi & Jaintia Hills'
+description = 'Cycling Holiday in Meghalaya: The Khasi & Jaintia Hills | 6 to 12 days'
 disableComments = true
 weight = 3
 +++
-### Cycle tour of Meghalaya: [*The Khasi and Jaintia hills*](https://www.nnejourneys.com/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
+### Cycling in Meghalaya: [*The Khasi and Jaintia hills*](https://www.nnejourneys.com/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
+
 On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. All the while riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and visiting quaint villages. We also include a day hike so as not to miss out the wonders that are the living root bridges.
+
 Separating the Brahmaputra valley from the plains of Bangladesh, hilly Meghalaya – the ‘abode of clouds’ – is a cool, pine-fresh mountain state set on dramatic horseshoes of rocky cliffs. Cherrapunjee and Mawsynram are statistically among the wettest places on Earth; most of the rain falls between June and September known as the Monsoons, creating very impressive waterfalls and carving out some of Asia’s longest caves. Meghalaya is also home to the only matri-lineal society of the eastern region.
 
 
 
 ### overview
+
 - **Level:** Moderate to Tough
-- **Duration:** 4 to 12
-- **Max. Cycling distance:** Upto 600 Km
+- **Duration:** 6 to 12
+- **Max. Cycling distance:** Upto 500 Km
 - **Avg. Cycling Distance:** 60 Km
 - **Terrain:** 100% Hilly / Mountanious
 - **Altitude variation:** 50 to 1900 mts
@@ -77,7 +80,7 @@ Sturdy SUV’s or Mini-coaches and sturdier drivers will accompany you on every 
 No special permits required
 
 #### Weather Pattern
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 10 C, in the evenings, however the days are still favourable for cycling.
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and fair days. Peak winters are from November to February with the mercury coming down below 10 C, in the evenings, however the days are still favourable for cycling.
 
 #### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.

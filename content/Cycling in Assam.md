@@ -2,7 +2,7 @@
 title = 'Cycling in Assam '
 slug = 'Cycling in Assam'
 image = 'images/Cycling-in-Assam.jpg'
-description = 'Cycling Tour of Assam: The Brahmaputra Valley'
+description = 'Cycling holiday in Assam: The Brahmaputra Valley | 6 to 15 days'
 disableComments = true
 weight = 2
 +++
@@ -12,7 +12,7 @@ This cycle tour takes you along the length of the Brahmaputra River, across Assa
 
 Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here.
 
-*The Tour is flexible and will be designed around the duration you have in hand.*
+**The Tour is flexible and will be designed around the duration you have in hand.**
 
 ### overview
 
@@ -20,10 +20,10 @@ Enroute you will ride across and visit wildlife parks, cross rivers on ferries, 
 
 
 - **Level:** Easy to Moderate
-- **Total Days:** 3 to 15
+- **Total Days:** 6 to 15
 - **Max. Cycling distance:** Upto 650 Km
-- **Avg. Cycling Distance:** 65 Km
-- **Terrain:** 95% Plains
+- **Avg. Cycling Distance:** 70 Km
+- **Terrain:** 90% Plains
 - **Altitude variation:** 50 to 800 mts
 - **Best Time:** October to March
 - **Airports:** Guwahati , Dibrugarh (Assam)

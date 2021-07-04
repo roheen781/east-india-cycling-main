@@ -2,7 +2,7 @@
 title = 'Cycling in Sikkim & West Bengal'
 slug = 'Cycling in Sikkim'
 image = 'images/Cycling-in-Sikkim.jpg'
-description = 'Cycling Tour of Sikkim & North Bengal: The Monastic Trail'
+description = 'Cycling Tour of Sikkim & North Bengal: The Monastic Trail | 9 to 14 days'
 disableComments = true
 weight = 10
 +++
