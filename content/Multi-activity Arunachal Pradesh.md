@@ -1,8 +1,8 @@
 +++
-title = 'Hike, Bike, Raft, Culture in Arunachal Pradesh'
+title = 'Hike, Cycle, Raft, Culture in Arunachal Pradesh'
 slug = 'Multi-activity-holiday-Arunachal-Pradesh'
 image = 'images/Arunachal Pradesh Multi-activity-tour.jpg'
-description = 'Multi-activity holiday in Arunachal Pradesh'
+description = 'Multi-activity holiday in Arunachal Pradesh: Hike, Cycle, Raft, Culture | 6 to 12 days'
 disableComments = true
 weight = 8
 +++

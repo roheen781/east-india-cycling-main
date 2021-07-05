@@ -1,8 +1,8 @@
 +++
-title = 'Hike, Bike, Culture holiday in Meghalaya'
+title = 'Hike, Cycle, Culture holiday in Meghalaya'
 slug = 'Multi-activity-holiday-Meghalaya'
 image = 'images/Meghalaya Multi-activity-tour.jpg'
-description = 'Multi-Activity Tour of Meghalaya'
+description = 'Multi-Activity Tour of Meghalaya: Hike, Cycle, Culture | 6 to 10 days'
 disableComments = true
 weight = 9
 +++
@@ -12,12 +12,12 @@ This particular Multi-activity tour takes us on bicycles and on foot across the 
 
 The cycling phase takes you across the beautiful landscape, whereas the hiking days take you through some of the best trails of the region, amongst which the famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools while visitng waterfalls, caves and local archery competitions. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and personal prospective of this land and its wonderful people.
 
-The tour is quite flexible, we can mould the entire proceeding looking at your preferences and abilities.
+**The tour is quite flexible, we can mould the entire proceeding looking at your preferences and abilities.**
 
 ### overview
 
 - **Level:** Moderate 
-- **Total Days:** 5 to 10
+- **Total Days:** 6 to 10
 - **Max. Cycling distance:** Upto 250 Km
 - **Hikes:** Multiple day Walks
 - **Terrain:** 100% Hilly / Mountanious
@@ -29,7 +29,7 @@ The tour is quite flexible, we can mould the entire proceeding looking at your p
 ### HIGHLIGHTS
 
 - Hike and Bike in the ‘Abode of Clouds’
-- Visit the live root bridges
+- Hike to the live root bridges and more
 - Cycle along the Indo-Bangla border
 - Views, views and more views
 - Waterfalls, Caves, Archery, Cuisine and more

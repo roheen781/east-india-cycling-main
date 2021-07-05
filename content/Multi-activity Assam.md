@@ -2,7 +2,7 @@
 title = 'Adventure, Culture, Wildlife tour of Assam'
 slug = 'Multi-activity-holiday-Assam'
 image = 'images/Assam Multi-activity-tour.jpg'
-description = 'Tea, Wildlife, Culture & Cuisine'
+description = 'Multi Activity Tour of Assam: Adventure, Wildlife, Culture | 6 to 12 days'
 disableComments = true
 weight = 9
 +++

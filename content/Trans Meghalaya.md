@@ -2,7 +2,7 @@
 title = 'Trans-Meghalaya Cycling Tour'
 slug = 'Trans Meghalaya cycling tour'
 image = 'images/Trans Meghalaya.jpg'
-description = 'Cycling Tour of Meghalaya: Garo, Khasi & the Jaintia Hills'
+description = 'Cycle Tour of Meghalaya: Garo, Khasi & the Jaintia Hills | 10 to 15 days'
 disableComments = true
 weight = 11
 +++
@@ -16,27 +16,26 @@ Over the duration of this tour you will be cycling across the best that Meghalay
 
 - **Level:** Tough
 - **Total Days:** 10 to 15
-- **Max. Cycling distance:** Upto 650 Km
+- **Max. Cycling distance:** Upto 700 Km
 - **Avg. Cycling Distance:** 60 Km
-- **Terrain:** 70% Hilly / Mountanious
-- **Altitude variation:** 50 to 2655 mts
+- **Terrain:** 100% Hilly / Mountanious
+- **Altitude variation:** 50 to 1900 mts
 - **Best Time:** October to March
-- **Airport In:** Dibrugarh (Assam)
-- **Airport Out:** Dibrugarh (Assam)
+- **Airport In:** Guwahati (Assam)
+- **Airport Out:** Guwahati (Assam)
 
 ### HIGHLIGHTS
 
-- Explore the Mishmi hills (Easternmost bit of the Himalayas)
-- Lohit and Debang River Valleys
-- Least populated district of India on sparsley plied upon roads
-- View the birth of the Brahmaputra Valley
-- A myriad of ethinic cuisines
-- Meet the Singpho, Khamti,Chakma, Miju Mishmi, Adi and Idu Mishmi Tribe tribes
-- Cycle through two lush wildlife sanctuaries
+- Ride across the three hill ranges of Meghalaya
+- Discover the three distinct tribes, their culture and cuisine
+- Caves, waterfalls, wildlife sanctuaries, sacred forests and river valley
+- Visit the Root bridges, the marvels of natural bio engineering
+- Unmatched panoramas of the Meghalaya hills and Bangladeshi plains
+- learn the unique history of this beautiful state
 
 ### ACCOMMODATION
 
-- **Accommodation:** Eco Lodges & Camping
+- **Accommodation:** Hotels, Eco Lodges & Camping
 - **Meals:** As much as possibly we try cover all the local cuisines
 - **Refreshments & Water:** High energy snacks and Water during activities
 
