@@ -2,7 +2,7 @@
 title = 'Cycling Holidays in Northeast India'
 slug = 'Cycling in Northeast India'
 image = 'images/Cycling in northeast India.jpg'
-description = 'Cycling holidays in Northeast India. This region lying in the far east of the Indian sub-continent shadowed by the Eastern Himalayan landmass is the physical as well as cultural bridge between India and south East Asia, this is where the two Asias meet. Come explore the Other India, one pedal at a time.'
+description = 'Cycling holidays in Northeast India. This region lying in the far east of the Indian sub-continent shadowed by the Eastern Himalayan landmass is the physical as well as cultural bridge between India and south East Asia, this is where the two Asias meet. Explore the Other India, one pedal at a time.'
 disableComments = true
 weight = 1
 +++
