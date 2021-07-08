@@ -62,6 +62,11 @@ Enroute you will ride across and visit wildlife parks, cross rivers on ferries, 
  - All permits
 
 ---
+#### Tour Images
+
+![Family-adventure-holiday-Assam](/images/assam-cycle-tour-gallery.jpg)
+
+---
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
