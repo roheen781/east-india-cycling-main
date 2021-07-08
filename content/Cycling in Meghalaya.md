@@ -56,6 +56,13 @@ Separating the Brahmaputra valley from the plains of Bangladesh, hilly Meghalaya
  - All permits
 
 ---
+#### Tour Images
+
+![cycle-tour-Meghalaya-North-East-India](/images/cycle-tour-Meghalaya.jpg)
+![Bicycling-holiday-Meghalaya](/images/Bicycling-holiday-Meghalaya.jpg)
+![Bicycling-trip-meghalaya-Northeast-India](/images/Bicycling-trip-meghalaya.jpg)
+![Meghalaya-cycling-holiday](/images/Meghalaya-cycling-holiday.jpg)
+---
 
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
