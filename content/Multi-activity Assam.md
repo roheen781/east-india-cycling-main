@@ -50,6 +50,16 @@ On this tour we will indulge in short day ride, walking forays, elephant & jeep 
  - All permits
 
 ---
+#### Tour Images
+
+---
+
++ ![cycle-wildlife-culture-tour-Assam](/images/cycle-wildlife-culture-tour-Assam.jpg)
++ ![Wildlife-Cucltur-Adventure-Tour-Assam-Northeast-India](/images/Wildlife-Cucltur-Adventure-Tour-Assam.jpg)
++ ![multi-activity-tour-Assam](/images/multi-activity-tour-Assam.jpg)
++ ![Active-holiday-Assam-North-East-India](/images/Active-holiday-Assam.jpg)
+
+---
 
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)

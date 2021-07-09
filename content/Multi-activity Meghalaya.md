@@ -55,6 +55,16 @@ The cycling phase takes you across the beautiful landscape, whereas the hiking d
  - All permits
 
 ---
+#### Tour Images
+
+---
+
++ ![Multi-activity-tour-Meghalaya](/images/Multi-activity-tour-Meghalaya.jpg)
++ ![Hike-Cycle-Culture-Tour-Meghalaya-Northeast-India](/images/Hike-Cycle-Culture-Tour-Meghalaya.jpg)
++ ![Active-holiday-Meghalaya-Northeast-India](/images/Active-holiday-Meghalaya.jpg)
++ ![Meghalaya-Multi-Activity-Holiday](/images/Meghalaya-Multi-Activity-Holiday.jpg)
+
+---
 
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)

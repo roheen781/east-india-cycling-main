@@ -53,6 +53,16 @@ Over the duration of this tour you will be cycling across the best that Meghalay
  - All permits
 
 ---
+#### Tour Images
+
+---
+
++ ![trans-Meghalaya-Cycle-Tour](/images/trans-Meghalaya-Cycle-Tour.jpg)
++ ![trans-Meghalaya-cycling-holiday-Northeast-India](/images/trans-Meghalaya-cycling-holiday.jpg)
++ ![trans-Meghalaya-cycle-trip](/images/trans-Meghalaya-cycle-trip.jpg)
++ ![bicycle-tour-Meghalaya-Northeast-India](/images/bicycle-tour-Meghalaya.jpg)
+
+---
 
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
