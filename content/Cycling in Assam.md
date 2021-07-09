@@ -111,7 +111,7 @@ We have a very experienced team which is also local. This reflects in the overal
 | ----------- | ----------- |----------- |----------- |
 |[Khasi & Jaintia Hills](/cycling-in-meghalaya/)      | [Eastern Arunachal Pradesh](/cycling-in-eastern-arunachal-pradesh/)    |[Monastic Trail](/cycling-in-sikkim/)      |[Arunachal Pradesh Multi-Activity](/multi-activity-holiday-arunachal-pradesh/)       |
 | [Trans-Meghalaya](/trans-meghalaya-cycling-tour/)  | [Western Arunachal Pradesh](/cycling-in-western-arunachal-pradesh/)        |      |[Meghalaya Multi-Activity](/multi-activity-holiday-meghalaya/)       |
-|  | [Mishmi Hills](/cycling-mishmi-hills/)      |       | [Assam Multi-Activity](/multi-activity-holiday-assam/)        | 
+|  | [Mishmi Hills](/cycling-in-mishmi-hills/)      |       | [Assam Multi-Activity](/multi-activity-holiday-assam/)        | 
 
 
 ###### *> Please write in to us for more information*

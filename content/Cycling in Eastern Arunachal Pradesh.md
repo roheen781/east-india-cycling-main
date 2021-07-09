@@ -98,7 +98,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 | Assam     | Meghalaya | Arunachal Pradesh    | Sikkim & W Bengal    |
 | -----------     |    -----------   |          ----------- |-----------|
-| [Brahmaputra Explorer](/cycling-in-assam/)   | [Khasi & Jaintia Hills](/cycling-in-meghalaya/)     | [Mishmi Hills Explorer](/cycling-mishmi-hills/)   |[Monastic Trail](/cycling-in-sikkim/)    |
+| [Brahmaputra Explorer](/cycling-in-assam/)   | [Khasi & Jaintia Hills](/cycling-in-meghalaya/)     | [Mishmi Hills Explorer](/cycling-in-mishmi-hills/)   |[Monastic Trail](/cycling-in-sikkim/)    |
 | [Assam Multi-Activity](/multi-activity-holiday-assam/)   | [Trans-Meghalaya](/trans-meghalaya-cycling-tour/)      | [Western Arunachal Pradesh](/cycling-in-western-arunachal-pradesh/)      |   |
 |   | [Meghalaya Multi-Activity](/multi-activity-holiday-meghalaya/)       | [Arunachal Pradesh Multi-Activity](/multi-activity-holiday-arunachal-pradesh/)     |   |
 |    |        |      | 
