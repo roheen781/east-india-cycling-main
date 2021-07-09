@@ -53,10 +53,10 @@ This tour of Sikkim takes us through East, South and Western districts of this 
 ---
 #### Tour Images
 
- ![Cycling-in-Sikkim-West-Bengal-North-East-India](/images/Cycling-in-Sikkim-West-Bengal.jpg)
- ![Sikkim-Cycling-tour-North-East-India](/images/Sikkim-Cycling-tour.jpg)
- ![monastic-trail-cycle-tour-Sikkim](/images/monastic-trail-cycle-tour-Sikkim.jpg)
- ![Cycling-holiday-Sikkim](/images/Cycling-holiday-Sikkim.jpg)
+ + ![Cycling-in-Sikkim-West-Bengal-North-East-India](/images/Cycling-in-Sikkim-West-Bengal.jpg)
+ + ![Sikkim-Cycling-tour-North-East-India](/images/Sikkim-Cycling-tour.jpg)
+ + ![monastic-trail-cycle-tour-Sikkim](/images/monastic-trail-cycle-tour-Sikkim.jpg)
+ + ![Cycling-holiday-Sikkim](/images/Cycling-holiday-Sikkim.jpg)
 ---
 
 ### Bikes

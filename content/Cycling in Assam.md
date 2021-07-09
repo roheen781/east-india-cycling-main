@@ -63,6 +63,7 @@ Enroute you will ride across and visit wildlife parks, cross rivers on ferries, 
 
 ---
 #### Tour Images
+---
 
 ![Assam-cycle-tour-North-East-India](/images/Assam-cycle-tour.jpg)
 ![cycling-tour-in-Assam](/images/cycling-tour-in-Assam.jpg)
