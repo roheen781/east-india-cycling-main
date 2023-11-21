@@ -6,7 +6,7 @@ description = 'Cycling Tour of Western Arunachal Pradesh: The Road to Tawang | 9
 disableComments = true
 weight = 5
 +++
-### Cycle Tour of Western Arunachal Pradesh: [*The Road to Tawang*](https://www.nnejourneys.com/cycling/cycle-tour-of-western-arunachal-pradesh/)
+### Cycle Tour of Western Arunachal Pradesh: [*The Road to Tawang*](https://nnejourneys.com/tours/cycle-tour-of-western-arunachal-pradesh)
 
 This cycle tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. The setting of this ride of Arunachal Pradesh is in the Buddhist belt home to the Monpa, Brokpa and Sherdukpen people close to the border with Bhutan and Tibet. This is one of the highest motorable routes of the eastern bit of the Himalayas, at places taking you to an altitude of 4200mts. The road condition though not at the best is still better than most parts of Arunachal Pradesh. The cycling phase covers between 350 to 650Kms, riding on little used roads. Incidentally, in a rough manner we will be following the same route the Dalai Lama used in his exodus from Tibet.
 
