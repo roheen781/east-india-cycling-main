@@ -57,7 +57,7 @@ This cycle tour of western Arunachal Pradesh takes you all the way to the peri
 ---
 
 + ![cycle-tour-Tawang-North-East-India](/images/cycle-tour-Tawang.jpg)
-+ ![Cycling-tour-Mishmi-hills-Arunachal-Pradesh](/images/Cycle-tour-western-Arunachal-Pradesh.jpg)
++ ![Cycling-tour-Tawang-Arunachal-Pradesh](/images/Cycle-tour-western-Arunachal-Pradesh.jpg)
 + ![cycling-to-Tawang-arunachal-pradesh](/images/cycling-to-Tawang.jpg)
 + ![Bicycling-holiday-Arunachal-Pradesh](/images/cycling-holiday-Arunachal-Pradesh.jpg)
 
