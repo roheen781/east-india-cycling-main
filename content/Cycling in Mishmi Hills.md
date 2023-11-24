@@ -1,14 +1,14 @@
 +++
 title = 'Cycling in The Mishmi Hills of Arunachal Pradesh'
-slug = 'Cycling in Mishmi Hills'
+slug = 'Cycling in Mishmi Hills Anini'
 image = 'images/Cycling-in-Arunachal Pradesh-mishmi-hills.jpg'
-description = 'Cycling Tour of The Mishmi Hills: Himalayas end | 11 to 15 days'
+description = 'Cycling Tour of The Mishmi Hills: The Road to Anini | 11 to 15 days'
 disableComments = true
 weight = 6
 +++
-### Cycling in the Mishmi Hills of Arunachal Pradesh: [*Himalaya’s eastern flank*](https://www.nnejourneys.com/cycling/cycling-in-arunachal-pradesh/)
+### Cycling in the Mishmi Hills of Arunachal Pradesh: [*The Road to Anini*](https://nnejourneys.com/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh)
 
-The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas, this is where the mighty Himalayan chain ends (or starts). Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of undending swathes of prestine nature. This is home to the animist Mishmi tribes, some of the smallest linguistic groups of the subcontinent. For most parts we will come in contact with the Idu Mishmi who worship several benevolent and malevolent spirits. Nani-Intaya and Masello Zino are worshipped as creators of mankind and universe as a whole. Mythological characters like SINE-RU a first IGU (Idu Priest) still holds high place and reverence in the minds of the people. The prints of his palm on the huge rocks at Athu Popu near Keyala Pass on the Chinese border, is considered as their shrine.
+The cycle tour of Mishmi Hills takes you to Anini in the far eastern flank of the Himalayas. This is where the mighty Himalayan chain ends (or starts). Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of undending swathes of prestine nature. This is home to the animist Mishmi tribes, some of the smallest linguistic groups of the subcontinent. For most parts we will come in contact with the Idu Mishmi who worship several benevolent and malevolent spirits. Nani-Intaya and Masello Zino are worshipped as creators of mankind and universe as a whole. Mythological characters like SINE-RU a first IGU (Idu Priest) still holds high place and reverence in the minds of the people. The prints of his palm on the huge rocks at Athu Popu near Keyala Pass on the Chinese border, is considered as their shrine.
 
 This cycle tour you will take you riding across diverse conditions on little used backroads, starting from the rainforest of Namdapha and Kamlang to the bamboo forests of Acheso Valley. Enroute you will meet the Therevada tribes that inhabit the plains and the animist tribes that live in the hills, while all along you will be treated to unsurpassed vistas of the high Himalayas and the mighty Brahmaputra Valley.
 
