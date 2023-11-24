@@ -1,7 +1,7 @@
 +++
 title = 'Cycling in The Mishmi Hills of Arunachal Pradesh'
 slug = 'Cycling in Mishmi Hills Anini'
-image = 'images/Cycling-in-Arunachal Pradesh-mishmi-hills.jpg'
+image = 'images/Cycling-in-Arunachal Pradesh-mishmi-hills-anini.jpg'
 description = 'Cycling Tour of The Mishmi Hills: The Road to Anini | 11 to 15 days'
 disableComments = true
 weight = 6
@@ -61,7 +61,7 @@ This cycle tour you will take you riding across diverse conditions on little use
 
 + ![Mishmi-hills-cycle-tour-Arunachal-Pradesh](/images/Mishmi-hills-cycle-tour.jpg)
 + ![Cycling-tour-Mishmi-hills-Arunachal-Pradesh](/images/cycling-in-mishmi-hills-Arunachal-Pradesh.jpg)
-+ ![Bicycle-trip-mishmi-hills-arunachal-pradesh](/images/bicycle-trip-mishmi-hills-arunachal-pradesh.jpg)
++ ![Bicycle-tour-Anini-arunachal-pradesh](/images/bicycle-tour-Anini-arunachal-pradesh.jpg)
 + ![cycling-tour-Arunachal-Pradesh-Mishmi-Hills](/images/cycling-tour-Arunachal-Pradesh-Mishmi-Hills.jpg)
 
 ---
