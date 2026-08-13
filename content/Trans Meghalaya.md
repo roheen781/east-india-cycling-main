@@ -12,6 +12,10 @@ The Trans Meghalaya cycling tour takes you across the three hill ranges of the s
 
 Over the duration of this tour you will be cycling across the best that Meghalaya has to offer, coverning some of the deepest caves and highest waterfalls of Asia, meeting distinct cultures and sampling their cuisine. Visiting pristine wildlife sanctuaries, the living root bridges and most of all be mesmirized by wonderful panoramas that this state is so famous for.
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/cycle-tour-of-meghalaya.html" class="button primary">View Trans-Meghalaya Cycle Tour</a></li>
+</ul>
+
 ### overview
 
 - **Level:** Tough
