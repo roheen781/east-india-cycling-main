@@ -6,7 +6,7 @@ description = 'Cycling Holiday in Meghalaya: The Khasi & Jaintia Hills | 6 to 12
 disableComments = true
 weight = 3
 +++
-### Cycling in Meghalaya: [*The Khasi and Jaintia hills*](https://www.nnejourneys.com/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
+### Cycling in Meghalaya: [*The Khasi and Jaintia hills*](https://nnejourneys.com/cycle-tour-of-meghalaya.html)
 
 On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. All the while riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and visiting quaint villages. We also include a day hike so as not to miss out the wonders that are the living root bridges.
 
@@ -104,7 +104,7 @@ We have a very experienced team which is also local. This reflects in the overal
   <li><a href="https://nnejourneys.com/cycle-tour-of-meghalaya.html" class="button primary">View Khasi &amp; Jaintia Hills Tour</a></li>
 </ul>
 
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/cycling-tours-northeast-india.html)
 ---
 
 ### Other Tours

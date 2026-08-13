@@ -6,7 +6,7 @@ description = 'Cycling holiday in Eastern Arunachal Pradesh: Watershed of the Br
 disableComments = true
 weight = 4
 +++
-### Cycle tour of Eastern Arunachal Pradesh: [*Explore the mouth of the Brahmaputra Valley*](https://www.nnejourneys.com/cycling/eastern-arunachal-pradesh-cycle-tour/)
+### Cycle tour of Eastern Arunachal Pradesh: [*Explore the mouth of the Brahmaputra Valley*](https://nnejourneys.com/watershed-of-the-brahmaputra.html)
 
 This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
 
@@ -103,7 +103,7 @@ We have a very experienced team which is also local. This reflects in the overal
   <li><a href="https://nnejourneys.com/watershed-of-the-brahmaputra.html" class="button primary">View Eastern Arunachal Cycle Tour</a></li>
 </ul>
 
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/cycling-tours-northeast-india.html)
 --- 
 
 ### Other Tours

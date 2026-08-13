@@ -2,7 +2,6 @@ languageCode = "en-us"
 title = "East India Cycling"
 baseURL = "/"
 theme = "massively"
-googleanalytics = "UA-180443036-2"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
@@ -11,7 +10,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
     [markup.goldmark.renderer]
       unsafe = true
 
-# [params]
+[params]
+  description = "Cycling holidays across Northeast India, from Assam and Meghalaya to Arunachal Pradesh and the Eastern Himalayas."
+  defaultImage = "/images/Cycling in northeast India.jpg"
   # set below parameter to define a favicon
   # favicon = "favicon.ico"
   # set to change date format
@@ -28,9 +29,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
