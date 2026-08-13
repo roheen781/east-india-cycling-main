@@ -12,6 +12,9 @@ This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, raft
 
 Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into two different and unique wildlife sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers, the easternmost tributaries of the Brahmaputra.
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/multi-activity-tour-eastern-arunachal-pradesh.html" class="button primary">View Multi-Activity Arunachal Tour</a></li>
+</ul>
 
 
 
@@ -69,6 +72,10 @@ Authentic interactions, local cuisine, history and lifestyle of the tribes etc a
 
 ---
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/multi-activity-tour-eastern-arunachal-pradesh.html" class="button primary">View Multi-Activity Arunachal Tour</a></li>
+</ul>
+
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
@@ -95,6 +102,10 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 
 #### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/multi-activity-tour-eastern-arunachal-pradesh.html" class="button primary">View Multi-Activity Arunachal Tour</a></li>
+</ul>
 
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/)
 ---

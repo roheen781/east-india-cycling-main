@@ -5,8 +5,8 @@
         <li class="active"><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>
         
         {{ with $data.contactinfo }}
-        <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
-        <li><a href='{{ "https://www.nnejourneys.com/" | relLangURL }}'>{{ i18n "NAV_MOTHERSHIP" . }}</a></li>
+        <li><a href="https://nnejourneys.com/#contact">{{ i18n "NAV_CONTACT" . }}</a></li>
+        <li><a href="https://nnejourneys.com/tours-northeast-india">{{ i18n "NAV_MOTHERSHIP" . }}</a></li>
         
         {{ end }}
         {{ if .IsTranslated }}

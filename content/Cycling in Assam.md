@@ -14,6 +14,10 @@ Enroute you will ride across and visit wildlife parks, cross rivers on ferries, 
 
 **The Tour is flexible and will be designed around the duration you have in hand.**
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/cycle-tour-assam.html" class="button primary">View Assam Cycle Tour</a></li>
+</ul>
+
 ### overview
 
 
@@ -72,6 +76,10 @@ Enroute you will ride across and visit wildlife parks, cross rivers on ferries, 
 
 ---
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/cycle-tour-assam.html" class="button primary">View Assam Cycle Tour</a></li>
+</ul>
+
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
@@ -103,6 +111,10 @@ We have a very experienced team which is also local. This reflects in the overal
 
  
  
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/cycle-tour-assam.html" class="button primary">View Assam Cycle Tour</a></li>
+</ul>
+
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
 ---
 ### Other Tours
@@ -115,6 +127,4 @@ We have a very experienced team which is also local. This reflects in the overal
 
 
 ###### *> Please write in to us for more information*
-
-
 

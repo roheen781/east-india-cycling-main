@@ -12,6 +12,10 @@ This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) t
 
 Exciting experiences right from crossing one of the largest rivers of India in Assam to cycling through the riverine areas of the Siang, Dibang and the Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain . Covering territories of over 10 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to Old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups and visiting some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run guest houses, homestays and camping in beautiful secluded locations .
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/watershed-of-the-brahmaputra.html" class="button primary">View Eastern Arunachal Cycle Tour</a></li>
+</ul>
+
 ### overview
 
 - **Level:** Easy to Moderate
@@ -64,6 +68,10 @@ Exciting experiences right from crossing one of the largest rivers of India in A
 
 ---
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/watershed-of-the-brahmaputra.html" class="button primary">View Eastern Arunachal Cycle Tour</a></li>
+</ul>
+
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
@@ -90,6 +98,10 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 
 #### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/watershed-of-the-brahmaputra.html" class="button primary">View Eastern Arunachal Cycle Tour</a></li>
+</ul>
 
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
 --- 

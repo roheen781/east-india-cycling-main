@@ -10,6 +10,10 @@ weight = 5
 
 This cycle tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. The setting of this ride of Arunachal Pradesh is in the Buddhist belt home to the Monpa, Brokpa and Sherdukpen people close to the border with Bhutan and Tibet. This is one of the highest motorable routes of the eastern bit of the Himalayas, at places taking you to an altitude of 4200mts. The road condition though not at the best is still better than most parts of Arunachal Pradesh. The cycling phase covers between 350 to 650Kms, riding on little used roads. Incidentally, in a rough manner we will be following the same route the Dalai Lama used in his exodus from Tibet.
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/road-to-tawang.html" class="button primary">View Western Arunachal Cycle Tour</a></li>
+</ul>
+
 ### overview
 
 - **Level:** Tough
@@ -63,6 +67,10 @@ This cycle tour of western Arunachal Pradesh takes you all the way to the peri
 
 ---
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/road-to-tawang.html" class="button primary">View Western Arunachal Cycle Tour</a></li>
+</ul>
+
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
@@ -90,6 +98,9 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 #### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/road-to-tawang.html" class="button primary">View Western Arunachal Cycle Tour</a></li>
+</ul>
 
 ###### [*Head over to our main site for more details >>*](https://nnejourneys.com/tours)
 ---

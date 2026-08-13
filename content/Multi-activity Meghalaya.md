@@ -14,6 +14,10 @@ The cycling phase takes you across the beautiful landscape, whereas the hiking d
 
 **The tour is quite flexible, we can mould the entire proceeding looking at your preferences and abilities.**
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/multi-activity-tour-meghalaya.html" class="button primary">View Multi-Activity Meghalaya Tour</a></li>
+</ul>
+
 ### overview
 
 - **Level:** Moderate 
@@ -66,6 +70,10 @@ The cycling phase takes you across the beautiful landscape, whereas the hiking d
 
 ---
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/multi-activity-tour-meghalaya.html" class="button primary">View Multi-Activity Meghalaya Tour</a></li>
+</ul>
+
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
@@ -94,6 +102,9 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 #### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/multi-activity-tour-meghalaya.html" class="button primary">View Multi-Activity Meghalaya Tour</a></li>
+</ul>
 
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/)
 
