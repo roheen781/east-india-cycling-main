@@ -43,14 +43,13 @@
 		{{ $noscript := resources.Get "scss/noscript.scss" | resources.ExecuteAsTemplate "noscript.scss" . | toCSS (dict "targetPath" "assets/css/noscript.css" "enableSourceMap" false) }}
 		<noscript><link rel="stylesheet" href='{{ $noscript.RelPermalink }}' /></noscript>
 		<meta name="google-site-verification" content="PIJRd4c1bSvfqgEKUReMO739bpa5DQaljUwN4DVa_bg" />
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180443036-2"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YVBDGW6W4G"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'UA-180443036-2');
+  gtag('config', 'G-YVBDGW6W4G');
 </script>
 
 	</head>
