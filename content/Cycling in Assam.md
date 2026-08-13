@@ -1,12 +1,12 @@
 +++
-title = 'Cycling in Assam '
+title = 'Cycling in Assam | Brahmaputra Valley Cycling Holiday'
 slug = 'Cycling in Assam'
-image = 'images/Cycling-in-Assam.jpg'
-description = 'Cycling holiday in Assam: The Brahmaputra Valley | 6 to 15 days'
+image = '/images/Cycling-in-Assam.jpg'
+description = 'A cycling holiday through Assam’s Brahmaputra Valley, tea country, wildlife landscapes and village roads.'
 disableComments = true
 weight = 2
 +++
-### Cycle tour of Assam: [*Cycling the physical heart of Northeastern India*](https://www.nnejourneys.com/cycling/cycle-tour-of-assam/)
+### Cycle tour of Assam: [*Cycling the physical heart of Northeastern India*](https://nnejourneys.com/cycle-tour-assam.html)
 
 This cycle tour takes you along the length of the Brahmaputra River, across Assam. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
 
@@ -115,7 +115,7 @@ We have a very experienced team which is also local. This reflects in the overal
   <li><a href="https://nnejourneys.com/cycle-tour-assam.html" class="button primary">View Assam Cycle Tour</a></li>
 </ul>
 
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/cycling-tours-northeast-india.html)
 ---
 ### Other Tours
 
@@ -127,4 +127,3 @@ We have a very experienced team which is also local. This reflects in the overal
 
 
 ###### *> Please write in to us for more information*
-

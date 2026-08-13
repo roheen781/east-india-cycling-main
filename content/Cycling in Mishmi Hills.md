@@ -6,7 +6,7 @@ description = 'Cycling Tour of The Mishmi Hills: The Road to Anini | 11 to 15 da
 disableComments = true
 weight = 6
 +++
-### Cycling in the Mishmi Hills of Arunachal Pradesh: [*The Road to Anini*](https://nnejourneys.com/tours/cycle-tour-of-mishmi-hills-arunachal-pradesh)
+### Cycling in the Mishmi Hills of Arunachal Pradesh: [*The Road to Anini*](https://nnejourneys.com/cycle-tour-of-mishmi-hills-arunachal-pradesh.html)
 
 The cycle tour of Mishmi Hills takes you to Anini in the far eastern flank of the Himalayas. This is where the mighty Himalayan chain ends (or starts). Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of undending swathes of prestine nature. This is home to the animist Mishmi tribes, some of the smallest linguistic groups of the subcontinent. For most parts we will come in contact with the Idu Mishmi who worship several benevolent and malevolent spirits. Mythological characters like SINE-RU a first IGU (Idu Priest) still holds high place and reverence in the minds of the people. The prints of his palm on the huge rocks at Athu Popu near Keyala Pass on the Chinese border, is considered as their shrine.
 
@@ -105,7 +105,7 @@ We have a very experienced team which is also local. This reflects in the overal
   <li><a href="https://nnejourneys.com/cycle-tour-of-mishmi-hills-arunachal-pradesh.html" class="button primary">View Mishmi Hills Cycle Tour</a></li>
 </ul>
 
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/cycling-tours-northeast-india.html)
 ---
 
 ### Other Tours
