@@ -6,6 +6,11 @@ googleanalytics = "UA-180443036-2"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # [params]
   # set below parameter to define a favicon
   # favicon = "favicon.ico"
@@ -29,4 +34,3 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
-
