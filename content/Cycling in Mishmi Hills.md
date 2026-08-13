@@ -12,6 +12,10 @@ The cycle tour of Mishmi Hills takes you to Anini in the far eastern flank of th
 
 This cycle tour you will take you riding across diverse conditions on little used backroads, starting from the rainforest of Namdapha and Kamlang to the bamboo forests of Acheso Valley. Enroute you will meet the Therevada tribes that inhabit the plains and the animist tribes that live in the hills, while all along you will be treated to unsurpassed vistas of the high Himalayas and the mighty Brahmaputra Valley.
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/cycle-tour-of-mishmi-hills-arunachal-pradesh.html" class="button primary">View Mishmi Hills Cycle Tour</a></li>
+</ul>
+
 ### overview
 
 - **Level:** Tough
@@ -66,6 +70,10 @@ This cycle tour you will take you riding across diverse conditions on little use
 
 ---
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/cycle-tour-of-mishmi-hills-arunachal-pradesh.html" class="button primary">View Mishmi Hills Cycle Tour</a></li>
+</ul>
+
 ### Bikes
 #### Scott 660 Aspect  / Trek 3700 (MTB)
 - Fork 80mm travel
@@ -92,6 +100,10 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 
 #### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/cycle-tour-of-mishmi-hills-arunachal-pradesh.html" class="button primary">View Mishmi Hills Cycle Tour</a></li>
+</ul>
 
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
 ---

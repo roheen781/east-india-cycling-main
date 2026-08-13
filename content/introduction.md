@@ -12,6 +12,9 @@ A tough mountain bike expedition on some of the highest roads of the eastern Him
 
 ​A close co-operation of professionals involved in the outdoors and cycling tours in particular. With individual experience spanning over a decade and half, we have come together to offer unique cycling tours in the far east of India. Authenticity and ethics is foremost in our mind you will notice our tours to be very interactive and local in its prospective. For us the route, the interactions, the experience and of course safety are of prime importance. Rest assured you will be with dependable and knowledgeable company.
 
+<ul class="actions special">
+  <li><a href="https://nnejourneys.com/" class="button primary">Visit North by Northeast Journeys</a></li>
+</ul>
 
 
 ---
@@ -27,5 +30,4 @@ A tough mountain bike expedition on some of the highest roads of the eastern Him
 |    |        | [Arunachal Pradesh Multi-Activity](/multi-activity-holiday-arunachal-pradesh/)     | 
 
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/)
-
 

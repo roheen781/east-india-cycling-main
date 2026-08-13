@@ -156,3 +156,34 @@
 			width: 100%;
 		}
 	}
+
+	// Keep every tour gallery in a single horizontal row.
+	#tour-images + ul,
+	#tour-images + hr + ul {
+		display: flex;
+		flex-wrap: nowrap;
+		gap: 1rem;
+		list-style: none;
+		overflow-x: auto;
+		padding-left: 0;
+		-webkit-overflow-scrolling: touch;
+
+		> li {
+			flex: 1 1 0;
+			min-width: 0;
+			padding-left: 0;
+
+			> img {
+				display: block;
+				height: 12rem;
+				object-fit: cover;
+				width: 100%;
+			}
+		}
+
+		@include breakpoint('<=small') {
+			> li {
+				flex: 0 0 75%;
+			}
+		}
+	}
